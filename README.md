@@ -1,12 +1,13 @@
 # Projet_Falcon9
 Prédiction de l’atterrissage du premier étage de la fusée Falcon 9
 
-Objectif du projet
+Objectif du projet :
 
 Ce projet vise à prédire si le premier étage de la fusée Falcon 9 atterrira avec succès, ce qui est un élément crucial pour réduire les coûts de lancement de SpaceX. Alors que le coût moyen d’un lancement Falcon 9 est de 62 millions de dollars, les concurrents facturent plus de 165 millions, en grande partie parce que SpaceX réutilise le premier étage de ses fusées.
 L’objectif est d’utiliser des techniques de data science et de machine learning pour analyser les données de lancement et prédire la probabilité de réussite de l'atterrissage. Cette analyse pourrait être précieuse pour des entreprises souhaitant collaborer avec ou concurrencer SpaceX.
 
-Objectifs d’apprentissage
+Objectifs d’apprentissage :
+
 Formuler un problème commercial réel sous forme de problème de data science.
 
 Manipuler et transformer des données à l’aide de Python (Pandas, NumPy).
@@ -21,7 +22,7 @@ Créer des visualisations interactives pour explorer les résultats.
 
 Comprendre les facteurs qui influencent le succès de l'atterrissage.
 
-Technologies utilisées
+Technologies utilisées :
 - Python 3
 - Pandas / NumPy / Matplotlib / Seaborn
 - Scikit-learn (Régression logistique, Arbres de décision, SVM, etc.)
@@ -30,7 +31,7 @@ Technologies utilisées
 - API SpaceX RESTful + Web scraping
 - Jupyter Notebook
 
-Aperçu du projet
+Aperçu du projet :
 
 - Collecte des données
 - Récupération des données via l’API REST de SpaceX
